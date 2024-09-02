@@ -2,7 +2,7 @@
 
 Name: Sui
 Favorite Ice Cream: Dark Chocolate
-Favorite Candy: Ginger Candy
+Favorite Candy: Hi-Chew
 
 Name: Eileen  
 Favorite Ice Cream: Coffee 
